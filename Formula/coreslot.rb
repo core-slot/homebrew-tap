@@ -1,8 +1,8 @@
 class Coreslot < Formula
   desc "One core budget for every test suite, build and agent on your machine"
   homepage "https://github.com/core-slot/coreslot"
-  url "https://github.com/core-slot/coreslot/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "50fdf56a7cffc2f8300ce06c214a2b32df26995809f8a919f8f517e71161c8a4"
+  url "https://github.com/core-slot/coreslot/archive/refs/tags/v0.3.1.tar.gz"
+  sha256 "@SHA256@"
   license "MIT"
   head "https://github.com/core-slot/coreslot.git", branch: "main"
 
