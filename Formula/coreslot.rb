@@ -1,8 +1,8 @@
 class Coreslot < Formula
   desc "Memory guard for the heavy commands of parallel coding agents"
   homepage "https://github.com/core-slot/coreslot"
-  url "https://github.com/core-slot/coreslot/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "d0e338295e80e2ed9b58d87fec0570c415d836fabe5290da06eee7bce4a9a073"
+  url "https://github.com/core-slot/coreslot/archive/refs/tags/v0.5.1.tar.gz"
+  sha256 "b5c716032f85b40819f651469e5a90a4cb8bea279acaf1248e5fda09a24605a1"
   license "MIT"
   head "https://github.com/core-slot/coreslot.git", branch: "main"
 
