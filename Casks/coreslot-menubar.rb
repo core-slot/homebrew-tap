@@ -1,7 +1,6 @@
 cask "coreslot-menubar" do
   version "0.1.0"
-  # Replaced from the v0.1.0 release zip when that is published.
-  sha256 "d1e9fe12479920af5d4d92ceae50bc130b372a74802819e430e0d2c800b72a84"
+  sha256 "3129871419c3f9b321a6f2dfc4fbff5ee6b8db272bcf3b597d583812486689bf"
 
   url "https://github.com/core-slot/coreslot-menubar/releases/download/v#{version}/coreslot-menubar-#{version}.zip"
   name "coreslot"
